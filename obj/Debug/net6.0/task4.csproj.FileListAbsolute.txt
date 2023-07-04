@@ -1,0 +1,15 @@
+D:\Desktop\Повторение семинаров С#\task4\bin\Debug\net6.0\task4.exe
+D:\Desktop\Повторение семинаров С#\task4\bin\Debug\net6.0\task4.deps.json
+D:\Desktop\Повторение семинаров С#\task4\bin\Debug\net6.0\task4.runtimeconfig.json
+D:\Desktop\Повторение семинаров С#\task4\bin\Debug\net6.0\task4.dll
+D:\Desktop\Повторение семинаров С#\task4\bin\Debug\net6.0\task4.pdb
+D:\Desktop\Повторение семинаров С#\task4\obj\Debug\net6.0\task4.csproj.AssemblyReference.cache
+D:\Desktop\Повторение семинаров С#\task4\obj\Debug\net6.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Повторение семинаров С#\task4\obj\Debug\net6.0\task4.AssemblyInfoInputs.cache
+D:\Desktop\Повторение семинаров С#\task4\obj\Debug\net6.0\task4.AssemblyInfo.cs
+D:\Desktop\Повторение семинаров С#\task4\obj\Debug\net6.0\task4.csproj.CoreCompileInputs.cache
+D:\Desktop\Повторение семинаров С#\task4\obj\Debug\net6.0\task4.dll
+D:\Desktop\Повторение семинаров С#\task4\obj\Debug\net6.0\refint\task4.dll
+D:\Desktop\Повторение семинаров С#\task4\obj\Debug\net6.0\task4.pdb
+D:\Desktop\Повторение семинаров С#\task4\obj\Debug\net6.0\task4.genruntimeconfig.cache
+D:\Desktop\Повторение семинаров С#\task4\obj\Debug\net6.0\ref\task4.dll
